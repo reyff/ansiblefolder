@@ -1,2 +1,0 @@
-# ansiblefolder
-playbooks_ansible
